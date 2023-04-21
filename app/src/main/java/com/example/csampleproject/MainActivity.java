@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.d("TAG", "This is the sample project for check (test)");
+        Log.d("TAG", "This is the updated sample project for check (test)");
     }
 }
